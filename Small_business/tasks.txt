@@ -1,0 +1,8 @@
+admin,Register Users with taskManager.py,2019-10-10,2019-10-20,No,Use taskManager.py to add the usernames and passwords for all team members that will be using this program.
+admin,Assign initial tasks,2019-10-10,2019-10-25,No,Use taskManager.py to assign each team member with appropriate tasks.
+mosa,Finish all projects,2021-04-17,2021-04-18,No,Need to complete all delayed projects before Sunday.
+kamo,Check this out,2021-04-24,2021-04-27,Yes,Having to recheck your code
+kekele,Debugg,2021-04-20,2021-05-01,No,Find out why admin can not register on full code
+mpho,send puppies,2021-04-12,2021-04-24,Yes,Play with the puppies
+thato,finish projects,2021-04-12,2021-04-24,Yes,You are behind sis
+mpho,Rechecking,2021-05-19,2021-05-22,No,See if white space still exists
